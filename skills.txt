@@ -1,0 +1,11 @@
+ACTIVE SKILLS
+-------------
+1. [Basic Attack]: Commit a single file.
+2. [Quick Save]: git init.
+3. [Cloud Backup]: git push origin main
+
+LOCKED SKILLS (Planned Features)
+--------------------------------
+- [Time Travel]: git checkout 
+- [Timeline Fusion]: git merge
+- [Conflict Resolution]: Defeated the Merge Boss
