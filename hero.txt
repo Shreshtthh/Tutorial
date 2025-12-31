@@ -5,7 +5,7 @@ Class: Open Source Paladin
 Level: 1
 
 [STATS]
-Health: 100
+Health: 90
 Stamina: 80
 Experience: 0
 
