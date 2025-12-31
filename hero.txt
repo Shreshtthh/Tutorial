@@ -1,0 +1,15 @@
+CHARACTER SHEET
+---------------
+Name: The Git Warrior
+Class: Open Source Paladin
+Level: 1
+
+[STATS]
+Health: 100
+Stamina: 80
+Experience: 0
+
+[EQUIPMENT]
+Head: None
+Body: Basic T-Shirt
+Weapon: Wooden Stick
