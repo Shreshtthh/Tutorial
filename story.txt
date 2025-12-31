@@ -1,4 +1,5 @@
 CHAPTER 1: THE BEGINNING
 The hero stands at the edge of the Git Forest.
 The hero has a red sword.
+A dragon has entered.
 The journey to the Remote Repository has just begun.
